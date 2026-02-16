@@ -3,13 +3,15 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Negar;AI+%26+ML+Student;Building+models+for+real-world+prediction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Negar;AI+%26+ML+Student;Building+models+for+real-world+prediction" />
   </a>
 </p>
 
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" align="right" width="120" />
+
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&width=435&lines=About+me"/>
+### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=About+me"/>
 
 
 **Negar Rezaei | BSc in Computer Science**  
@@ -25,7 +27,7 @@
 
 ---
   
- ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&width=435&lines=Profile+Summary"/>
+ ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Profile+Summary"/>
 
 <div align="center">
 
@@ -35,13 +37,13 @@
 
 ---
 
- ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&width=435&lines=Academic+%26+Research+Interests"/>
+ ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Academic+%26+Research+Interests"/>
 
 I am deeply interested in the foundations and applications of Artificial Intelligence, Machine Learning, and Deep Learning, with a particular focus on building predictive models for real-world problems. My academic curiosity extends to robotics and the design of intelligent systems that can learn, reason, and act autonomously. Additionally, I am fascinated by the theoretical aspects of computation, including formal languages, automata, and algorithmic reasoning. Exploring these areas allows me to bridge the gap between theory and practical implementation, and to understand how advanced models can be applied to solve complex challenges.
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&width=435&lines=Connect+with+me"/>
+### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Connect+with+me"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A9396?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/negar-rezaei-266673365)
 
@@ -49,7 +51,7 @@ I am deeply interested in the foundations and applications of Artificial Intelli
 
 
 ---
-### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&width=435&lines=Skills+%26+Tools"/>
+### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Skills+%26+Tools"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&size=17&duration=1000&pause=1000&color=298C94&repeat=false&width=435&lines=Programming+Languages:"/>
 
@@ -81,19 +83,15 @@ I am deeply interested in the foundations and applications of Artificial Intelli
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&width=435&lines=Github+Stats"/>
+### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Github+Stats"/>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=NegarR6&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NegarR6&theme=radical&hide_border=false" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegarR6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400"/>
-
+  <img src="https://streak-stats.demolab.com?user=NegarR6&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&width=435&lines=Top+Contributed+Repo"/>
+### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Top+Contributed+Repo"/>
 
 <div align="center">
   
@@ -101,4 +99,6 @@ I am deeply interested in the foundations and applications of Artificial Intelli
 
 </div>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8FD3C7&height=100&section=footer"/>
+</p>
