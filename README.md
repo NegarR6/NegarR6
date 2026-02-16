@@ -46,7 +46,6 @@ I am deeply interested in the foundations and applications of Artificial Intelli
 ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Connect+with+me"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A9396?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/negar-rezaei-r)
-
 [![Email](https://img.shields.io/badge/Email-FF52A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negar.rezaei.r@gmail.com)
 
 
