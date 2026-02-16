@@ -19,8 +19,8 @@
     <ul>
       <li>Focused on Artificial Intelligence, Machine Learning, and Deep Learning </li>
       <li>Familiar with data pipelines, preprocessing, and feature engineering </li>
-      <li>Experienced in predictive modeling for real-world problems, including system failure and healthcare datasets</li>
-      <li>Passionate about building intelligent systems that learn, reason, and act like humans</li>
+      <li>Worked on projects with system failures and healthcare datasets, which taught me a lot about data cleaning and why models work (or don't) in practice</li>
+      <li>I like building things that solve actual problems, whether that's predicting failures before they happen or understanding why a model makes certain decisions</li>
       <li>Exploring algorithmic foundations and practical AI applications to bridge research and real-world impact</li>
     </ul>
 </div>
