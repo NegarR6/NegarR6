@@ -28,8 +28,8 @@
  ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&width=435&lines=Profile+Summary"/>
 
 <div align="center">
-   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegarR6&theme=radical)
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegarR6&theme=radical" width="500"/>
 
 </div>
 
@@ -85,9 +85,9 @@ I am deeply interested in the foundations and applications of Artificial Intelli
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=NegarR6&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NegarR6&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NegarR6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=NegarR6&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NegarR6&theme=radical&hide_border=false" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegarR6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400"/>
 
 </div>
 
@@ -96,7 +96,9 @@ I am deeply interested in the foundations and applications of Artificial Intelli
 ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=4500&pause=1000&color=FF52A7&width=435&lines=Top+Contributed+Repo"/>
 
 <div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=NegarR6&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  
+  <img src="https://github-contributor-stats.vercel.app/api?username=NegarR6&limit=5&theme=radical&combine_all_yearly_contributions=true" width="400"/>
 
 </div>
+
+
