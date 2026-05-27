@@ -39,11 +39,11 @@
 
  ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Academic+%26+Research+Interests"/>
 
-I'm really drawn to practical AI problems—how machine learning can actually help solve real-world issues. I spent a lot of time working with datasets on system failures and healthcare, and that's when I realized I loved the detective work: finding patterns in data, understanding why models make certain predictions, and figuring out what's really going on under the hood.
+I'm mainly interested in machine learning and how AI can be applied to real-world problems, especially in healthcare and medical AI. Working with healthcare and system-failure datasets made me realize how much I enjoy the investigative side of ML: finding patterns, understanding model behavior, and figuring out why systems fail when they do.
+I'm particularly interested in reinforcement learning, LLMs, computer vision, and the intersection of ML and robotics. What fascinates me most is building systems that can adapt, reason, and interact with complex environments rather than just optimize benchmark scores.
+I’m also curious about the theoretical foundations behind these systems — algorithms, formal languages, and automata — especially when they connect back to practical AI problems and intelligent system design.
+What I enjoy most is the process of turning messy data and abstract ideas into models that actually generalize and work in the real world. That mix of theory, experimentation, and real impact is what keeps me excited about the field.
 
-I'm also curious about the theory side—formal languages, automata, algorithms—but not as abstract concepts floating around. I like understanding *how* these ideas connect to what we're trying to build. Robotics fascinates me too, especially the challenge of making systems that can adapt and learn on their own.
-
-Honestly, what drives me most is that moment when a model clicks into place and you see it actually working on new data. That's where the fun is—combining the technical depth with real impact.
 
 ---
 
