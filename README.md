@@ -15,15 +15,13 @@
 
 
 **Negar Rezaei | BSc in Computer Science**  
-<div style='text-align:justify'>
-    <ul>
-      <li>Focused on Artificial Intelligence, Machine Learning, and Deep Learning </li>
-      <li>Familiar with data pipelines, preprocessing, and feature engineering </li>
-      <li>Worked on projects with system failures and healthcare datasets, which taught me a lot about data cleaning and why models work (or don't) in practice</li>
-      <li>I like building things that solve actual problems, whether that's predicting failures before they happen or understanding why a model makes certain decisions</li>
-      <li>Exploring algorithmic foundations and practical AI applications to bridge research and real-world impact</li>
-    </ul>
-</div>
+
+I'm a computer science student with a focus on Artificial Intelligence, Machine Learning, and Deep Learning. My work centers on building predictive models that address tangible problems—particularly in healthcare and system reliability domains.
+
+- **Core Focus:** AI/ML with emphasis on data pipelines, preprocessing, and feature engineering
+- **Practical Experience:** Hands-on work with healthcare datasets and system failure prediction, which shaped my understanding of data cleaning challenges and model behavior in real-world conditions
+- **Approach:** I prioritize building solutions that solve actual problems over optimizing benchmark scores—whether that's predicting failures before they occur or interpreting why models make specific decisions
+- **Goal:** Bridging algorithmic foundations with practical AI applications to create meaningful real-world impact
 
 ---
   
@@ -39,31 +37,35 @@
 
  ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Academic+%26+Research+Interests"/>
 
-I'm mainly interested in machine learning and how AI can be applied to real-world problems, especially in healthcare and medical AI. Working with healthcare and system-failure datasets made me realize how much I enjoy the investigative side of ML: finding patterns, understanding model behavior, and figuring out why systems fail when they do.
-I'm particularly interested in reinforcement learning, LLMs, computer vision, and the intersection of ML and robotics. What fascinates me most is building systems that can adapt, reason, and interact with complex environments rather than just optimize benchmark scores.
-I’m also curious about the theoretical foundations behind these systems — algorithms, formal languages, and automata — especially when they connect back to practical AI problems and intelligent system design.
-What I enjoy most is the process of turning messy data and abstract ideas into models that actually generalize and work in the real world. That mix of theory, experimentation, and real impact is what keeps me excited about the field.
+My research interests lie at the intersection of machine learning theory and practical application, with particular emphasis on healthcare and medical AI. Working extensively with healthcare and system-failure datasets has deepened my appreciation for the investigative aspects of ML: identifying patterns, analyzing model behavior, and diagnosing why systems fail under specific conditions.
+
+**Primary Areas of Interest:**
+- **Reinforcement Learning & LLMs:** Exploring adaptive systems capable of reasoning and decision-making in complex environments
+- **Computer Vision:** Applying visual understanding to real-world problems
+- **ML & Robotics Intersection:** Building systems that interact meaningfully with physical environments
+- **Theoretical Foundations:** Algorithms, formal languages, and automata theory—especially as they relate to practical AI system design
 
 
 ---
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Connect+with+me"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A9396?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/negar-rezaei-r)
-[![Email](https://img.shields.io/badge/Email-FF52A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negar.rezaei.r@gmail.com)
+
+| Platform | Contact |
+|----------|---------|
+| LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A9396?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/negar-rezaei-r) |
+| Email | [![Email](https://img.shields.io/badge/Email-FF52A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negar.rezaei.r@gmail.com) |
+
 
 
 ---
 ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Skills+%26+Tools"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&size=17&duration=1000&pause=1000&color=298C94&repeat=false&width=435&lines=Programming+Languages:"/>
-
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&size=17&duration=1000&pause=1000&color=298C94&repeat=false&width=435&lines=Machine+Learning+%26+Data+Analysis:"/>
-
+### Machine Learning & Data Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -71,18 +73,15 @@ What I enjoy most is the process of turning messy data and abstract ideas into m
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-%231D6F42.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&size=17&duration=1000&pause=1000&color=298C94&repeat=false&width=435&lines=Database+%26+Backend:"/>
-
+### Database & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&size=17&duration=1000&pause=1000&color=298C94&repeat=false&width=435&lines=Version+Control+%26+Project+Management:"/>
-
+### Version Control & Project Management
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=Young+Serif&size=17&duration=1000&pause=1000&color=298C94&repeat=false&width=435&lines=DevOps+%26+Deployment:"/>
-
+### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
