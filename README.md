@@ -92,16 +92,6 @@ What I enjoy most is the process of turning messy data and abstract ideas into m
   <img src="https://streak-stats.demolab.com?user=NegarR6&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
----
-
-### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Top+Contributed+Repo"/>
-
-<div align="center">
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=NegarR6&limit=5&theme=radical&combine_all_yearly_contributions=true" width="400"/>
-
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8FD3C7&height=100&section=footer"/>
 </p>
