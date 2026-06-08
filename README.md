@@ -88,8 +88,9 @@ My research interests lie at the intersection of machine learning theory and pra
 ### <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=5000&color=FF52A7&width=435&lines=Github+Stats"/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NegarR6&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=NegarR6&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" />
 </div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8FD3C7&height=100&section=footer"/>
